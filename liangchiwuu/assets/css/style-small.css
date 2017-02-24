@@ -1,0 +1,144 @@
+/* -------------------------------------
+        GLOBAL 
+------------------------------------- */
+
+footer {
+  font-size: 16px;
+  font-size: 1rem;
+}
+
+.inpage-button-style {
+  font-size: 32px;
+  font-size: 2rem;
+}
+
+/* -------------------------------------
+        GOTOP BUTTON
+------------------------------------- */
+
+#gotop {
+  font-size: 32px;
+  font-size: 2rem;
+}
+
+/* -------------------------------------
+        TOP NAV 
+------------------------------------- */
+
+#top-nav {
+  text-align: center;
+  padding: 0px;
+}
+  #top-nav .nav-button {
+    font-size: 28px;
+    font-size: 1.75rem;
+    letter-spacing: 2.4px;
+    letter-spacing: 0.15rem;
+    width: 22%;
+    height: 90px;
+  }
+
+/* -------------------------------------
+        INTRO
+------------------------------------- */
+
+#intro-div {
+  padding-top: 210px;
+  padding-bottom: 300px;
+}
+  #intro-div .title-main {
+    font-weight: normal;
+    text-shadow: 0 0 0;
+  }
+
+#intro-detail-div {
+  ;
+}
+  #intro-detail-div .content-box {
+    width: 80%;
+  }
+
+/* -------------------------------------
+        SKILLS 
+------------------------------------- */
+
+#skills-div {
+  ;
+}
+  #skills-div .clear-bar {
+    ;
+  }
+  #skills-div .table-container {
+    display: block;
+    width: 90%;
+    margin-left: 5%;
+  }
+    #skills-div .table-container .row {
+      display: initial;
+    }
+      #skills-div .table-container .row div {
+        display: inline-block;
+      }
+      #skills-div .table-container .row .cell-1 {
+        width: 90%;
+      }
+      #skills-div .table-container .row .cell-2 {
+        width: 90%;
+      }
+      #skills-div .table-container .row .cell-3 {
+        width: 90%;
+      }
+      #skills-div .table-container .row .cell-4 {
+        width: 30%;
+      }
+      #skills-div .table-container .row .cell-5 {
+        width: 30%;
+      }
+      #skills-div .table-container .row .cell-6 {
+        width: 30%;
+      }
+
+/* -------------------------------------
+        EXP
+------------------------------------- */
+
+#exp-div {
+  ;
+}
+  #exp-div .table-container {
+    display: block;
+  }
+    #exp-div .table-container .project-summary {
+      text-align: left;
+      width: 90%;
+    }
+    #exp-div .table-container .linkedin-nav {
+      width: 100%;
+    }
+    #exp-div .table-container .row {
+      display: initial;
+    }
+      #exp-div .table-container .row b {
+        font-weight: normal;
+        text-shadow: 0 0 0;
+      }
+      #exp-div .table-container .row div {
+        display: block;
+      }
+      #exp-div .table-container .row .cell-1,
+      #exp-div .table-container .row .cell-2 {
+        width: 100%;
+      }
+
+/* -------------------------------------
+        CONTACT
+------------------------------------- */
+
+#contact-div {
+  ;
+}
+  #contact-div .content-box {
+    width: 85%;
+  }
+
+
