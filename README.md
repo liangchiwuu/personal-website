@@ -5,6 +5,6 @@
 
 ## Overview
 
-A handcrafted website, take a look [**here**](http://liangchiwuu.com/).
+A 100% handcrafted website.
 
 ![Snapshot](./snapshot.png)
